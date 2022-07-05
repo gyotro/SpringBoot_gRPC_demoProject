@@ -1,0 +1,8 @@
+/common-service/target/generated-sources/
+/common-service/target/classes
+/common-service/target/maven-archiver
+/common-service/target/maven-status
+/common-service/target/protoc-dependencies
+/common-service/target/protoc-plugins
+/common-service/.mvn/
+.idea/
