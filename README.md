@@ -6,4 +6,4 @@ In this project the following features are shown:
 - maven project for stub files generation
 - maven project for server side gRPC with Spring Boot (on custom port 8005)
 - *[Dockerfile](https://github.com/gyotro/SpringBoot_gRPC_demoProject/blob/master/Dockerfile)* for containerization
-- Jenckins file for CI/CD (coming soon)
+- Jenkins file for CI/CD (coming soon)
